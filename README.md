@@ -1,7 +1,7 @@
 <pre align=center>
 
  mmmmm    m     m     m       #                      
- #   "#    "m m"    mm#mm     # mm      mmm     m mm
+#   "#    "m m"    mm#mm     # mm      mmm     m mm
  #mmm#"     "#"       #       #"  #    #" "#    #"  #
  #           #        #       #   #    #   #    #   #
  #           #        "mm     #   #    "#m#"    #   #
