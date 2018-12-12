@@ -1,4 +1,10 @@
-![](https://www.python.org/static/img/python-logo.png)
+<pre align=center>
+ mmmmm    m     m     m       #
+ #   "#    "m m"    mm#mm     # mm      mmm     m mm
+ #mmm#"     "#"       #       #"  #    #" "#    #"  #
+ #           #        #       #   #    #   #    #   #
+ #           #        "mm     #   #    "#m#"    #   #
+</pre>
 
 # Python
 久闻Python这门语言的大名，现在开始学习Python，计划一到两个月搞定Python基础的东西。Python是一种解释型的语言。
